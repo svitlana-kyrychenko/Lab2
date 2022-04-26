@@ -3,7 +3,7 @@ second lab about Cassandra
 
 docker ps
 
-![image](https://user-images.githubusercontent.com/102665740/165401705-d8cdf155-ead3-48b2-af0d-2eab29333300.png)
+![image](https://user-images.githubusercontent.com/102665740/165404056-5a807bca-c881-4e60-8114-06e39e5b64cc.png)
 
 describe tables
 
